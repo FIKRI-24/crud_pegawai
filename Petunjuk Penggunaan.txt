@@ -1,0 +1,7 @@
+Petunjuk Penggunaan:
+1. Copy folder pegawai ke folder xampp/htdocs.
+2. Aktifkan apache dan mysql pada Xampp-controls.
+3. Ketikkan localhost/phpmyadmin.
+4. Buat database dengan nama pegawai. Jika pakai nama lain,sesuaikan skrip koneksi pada file library/config.php.
+5. Pilih menu Import, lalu Import pegawai.sql
+6. Jalankan localhost/pegawai
